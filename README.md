@@ -117,7 +117,6 @@ A: 你可以编辑 `.vscode/vue3-uniapp.code-snippets` 文件来添加自己的�
 如果你在使用过程中遇到任何问题，可以通过以下方式获得支持：
 
 1. 在 GitHub 上提交[Issue](https://github.com/iiheng/vscode-uniapp-setup/issues)
-2. 发送邮件至：your-email@example.com
 
 ## 许可证
 
